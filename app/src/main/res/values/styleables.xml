@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="ind_radius" format="dimension" />
+        <attr name="ind_circle_distance" format="dimension" />
+        <attr name="ind_number_of_circles" format="integer" />
+        <attr name="ind_chosen_circle_color" format="color" />
+        <attr name="ind_default_circle_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="AnimatedRectangle">
+        <attr name="r_initial_color" format="color" />
+        <attr name="r_target_color" format="color" />
+    </declare-styleable>
+</resources>
